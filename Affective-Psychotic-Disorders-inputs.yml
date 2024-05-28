@@ -1,0 +1,81 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/affective-psychotic-disorders-depress---primary.py
+inputModule3:
+  class: File
+  path: python/affective-psychotic-disorders-remiss---primary.py
+inputModule4:
+  class: File
+  path: python/affective-psychotic-disorders-psychoses---primary.py
+inputModule5:
+  class: File
+  path: python/affective-psychotic-disorders-manicdepress---primary.py
+inputModule6:
+  class: File
+  path: python/affective-psychotic-disorders-hallucination---primary.py
+inputModule7:
+  class: File
+  path: python/affective-psychotic-disorders-unspec---primary.py
+inputModule8:
+  class: File
+  path: python/bipolar-affective-psychotic-disorders---primary.py
+inputModule9:
+  class: File
+  path: python/visual-affective-psychotic-disorders---primary.py
+inputModule10:
+  class: File
+  path: python/mixed-affective-psychotic-disorders---primary.py
+inputModule11:
+  class: File
+  path: python/subchronic-affective-psychotic-disorders---primary.py
+inputModule12:
+  class: File
+  path: python/schizoaffective-affective-psychotic-disorders---primary.py
+inputModule13:
+  class: File
+  path: python/affective-psychotic-disorders-resolved---primary.py
+inputModule14:
+  class: File
+  path: python/hypomanic-affective-psychotic-disorders---primary.py
+inputModule15:
+  class: File
+  path: python/affective-psychotic-disorders-mania---primary.py
+inputModule16:
+  class: File
+  path: python/affective-psychotic-disorders-schizophrenia---primary.py
+inputModule17:
+  class: File
+  path: python/affective-psychotic-disorders---primary.py
+inputModule18:
+  class: File
+  path: python/affective-psychotic-disorders-psychosis---primary.py
+inputModule19:
+  class: File
+  path: python/other-affective-psychotic-disorders---primary.py
+inputModule20:
+  class: File
+  path: python/current-affective-psychotic-disorders---primary.py
+inputModule21:
+  class: File
+  path: python/severe-affective-psychotic-disorders---primary.py
+inputModule22:
+  class: File
+  path: python/affective-psychotic-disorders-mention---primary.py
+inputModule23:
+  class: File
+  path: python/cyclic-affective-psychotic-disorders---primary.py
+inputModule24:
+  class: File
+  path: python/affective-psychotic-disorders-agitated---primary.py
+inputModule25:
+  class: File
+  path: python/moderate-affective-psychotic-disorders---primary.py
+inputModule26:
+  class: File
+  path: python/affective-psychotic-disorders-elated---primary.py
+inputModule27:
+  class: File
+  path: python/output-cases.py
